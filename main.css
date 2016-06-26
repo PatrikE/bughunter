@@ -1,0 +1,28 @@
+﻿body {
+	background-color: antiquewhite;
+}
+
+
+header .col-sm-4 {
+	align-items: center;
+
+}
+.jumbotron {
+	display: auto;
+	background-size: cover;
+	height: 800px;
+/**	background-image: url('#');**/
+	background-color: black;
+}
+
+.jumbotron h1 {
+
+} 
+
+.jumbotron h2 {
+
+}
+.jumbotron ul {
+	align-self: center;
+	color: red;
+}
